@@ -2,6 +2,6 @@
 public class App{
 	
 	public static void main(String ...args){
-		System.out.println("stash command");
+		System.out.println("stash command demo");
 	}
 }
